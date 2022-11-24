@@ -26,7 +26,7 @@
 	"deck_ui_typing.wav",
 	"deck_ui_volume.wav",
 	"deck_ui_switch_toggle_off.wav",
-	"deck_ui_switch_toggle_on.wav"
+	"deck_ui_switch_toggle_on.wav",
 	"deck_ui_message_toast.wav"
 	],
   "mappings": {}
