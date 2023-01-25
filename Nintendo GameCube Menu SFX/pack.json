@@ -3,7 +3,7 @@
 "description": "This pack adds the Sound FX that plays in the Nintendo GameCube to your Steam Deck's menu.",
 "author": "VortexisTV",
 "version": "v1.0",
-"manifest_version": 1,
+"manifest_version": 2,
 "music": false,
 "ignore": [
 	"bumper_end.wav",
